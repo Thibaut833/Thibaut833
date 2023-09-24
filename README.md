@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my IaC homelab](https://github.com/Thibaut833/packer-debian12-proxmox)
 
-- 🌱 I’m currently learning **kubernetes with kodekloud to pass the CKA exam.**
+- 🌱 I’m currently learning **kubernetes with kodekloud to pass the CKA exam**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thibaut833](https://github.com/Thibaut833)
 
