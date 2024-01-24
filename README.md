@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thibaut RICHARD</h1>
-<h3 align="center">A passionate Sys admin using DevOps tools and wants to improve his skills</h3>
+<h3 align="center">A passionate Sys admin using DevOps tools and want to improve my skills</h3>
 
 - 🔭 I’m currently working on [my IaC homelab](https://github.com/Thibaut833/packer-debian12-proxmox)
 
