@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thibaut RICHARD</h1>
 <h3 align="center">A passionate Sys admin using DevOps tools</h3>
 
-- 🔭 I’m currently working on [my IaC homelab](https://github.com/Thibaut833/packer-debian12-proxmox)
+- 🔭 I’m currently working on [my IaC homelab](https://github.com/Thibaut833/init_k8s)
 
 - 🌱 I’m currently learning **kubernetes with kodekloud to pass the CKA exam**
 
