@@ -78,10 +78,3 @@
 <img src="https://raw.githubusercontent.com/Thibaut833/Thibaut833/output/snake.svg" alt="Snake animation" />
 
 ###
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Thibaut833/Thibaut833/output/snake.svg" alt="Snake animation" />
-
-###
